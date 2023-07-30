@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projectConfiguration>
+    <configVersion>2</configVersion>
+    <robotExecEnvironment path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311" interpreter="Python"/>
+    <relativeTo>WORKSPACE</relativeTo>
+    <referencedLibrary type="PYTHON" name="ExcelLibrary" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/ExcelLibrary.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/SeleniumLibrary/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="webdriver_manager" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/webdriver_manager/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="DataDriver" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/DataDriver/__init__.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="argument_utils" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/DataDriver/argument_utils.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="DataDriver.ReaderConfig" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/DataDriver/ReaderConfig.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="DataDriver.search" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/DataDriver/search.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="DataDriver.utils" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/DataDriver/utils.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="firefox" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/webdriver_manager/firefox.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="microsoft" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/webdriver_manager/microsoft.py" dynamic="false"/>
+    <referencedLibrary type="PYTHON" name="opera" path="C:/Users/Ravis/AppData/Local/Programs/Python/Python311/Lib/site-packages/webdriver_manager/opera.py" dynamic="false"/>
+    <pythonpath/>
+    <classpath/>
+    <excludedForValidation/>
+    <isValidatedFileSizeCheckingEnabled>true</isValidatedFileSizeCheckingEnabled>
+    <validatedFileMaxSize>1024</validatedFileMaxSize>
+</projectConfiguration>
